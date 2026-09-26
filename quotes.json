@@ -1,0 +1,602 @@
+[
+ {
+  "id": 1,
+  "text": "Urgency is a feeling. Priority is a decision.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 2,
+  "text": "Do the boring thing before it becomes the urgent thing.",
+  "pillar": "speed"
+ },
+ {
+  "id": 3,
+  "text": "Say the number. Then stop talking.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 4,
+  "text": "Small markets forget nothing.",
+  "pillar": "patience"
+ },
+ {
+  "id": 5,
+  "text": "Show me the bonus and I'll show you the behaviour.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 6,
+  "text": "Speed inside a regulated market is mostly preparation.",
+  "pillar": "speed"
+ },
+ {
+  "id": 7,
+  "text": "Trust travels slower than email.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 8,
+  "text": "Registration takes a year. Reputation takes longer.",
+  "pillar": "patience"
+ },
+ {
+  "id": 9,
+  "text": "People don't chase targets. They chase what the target pays for.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 10,
+  "text": "Compliance is slow the way seatbelts are slow.",
+  "pillar": "speed"
+ },
+ {
+  "id": 11,
+  "text": "Every concession made quietly gets quoted back to you loudly.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 12,
+  "text": "Most of this job is waiting well.",
+  "pillar": "patience"
+ },
+ {
+  "id": 13,
+  "text": "A decision you keep revisiting was never made.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 14,
+  "text": "The rule you find inconvenient is usually the one protecting you.",
+  "pillar": "speed"
+ },
+ {
+  "id": 15,
+  "text": "Walking away is a price, not a failure.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 16,
+  "text": "You'll be in this market long after this quarter.",
+  "pillar": "patience"
+ },
+ {
+  "id": 17,
+  "text": "Most problems are a slow answer wearing a costume.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 18,
+  "text": "Process is what remains when the clever person leaves.",
+  "pillar": "speed"
+ },
+ {
+  "id": 19,
+  "text": "A deal that needs a good mood to survive isn't a deal.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 20,
+  "text": "Pace is a decision made early and defended late.",
+  "pillar": "patience"
+ },
+ {
+  "id": 21,
+  "text": "You can delay a decision. You cannot delay its cost.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 22,
+  "text": "Rushing is how you pay twice.",
+  "pillar": "speed"
+ },
+ {
+  "id": 23,
+  "text": "The partner who negotiates hardest at the start argues least later.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 24,
+  "text": "The hardest discipline is going slower than you can.",
+  "pillar": "patience"
+ },
+ {
+  "id": 25,
+  "text": "The option you keep open is charging you rent.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 26,
+  "text": "Nothing is faster than not having to redo it.",
+  "pillar": "speed"
+ },
+ {
+  "id": 27,
+  "text": "Silence is a position. Use it deliberately or it uses you.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 28,
+  "text": "Anyone can climb. Fewer can climb at the same effort all the way up.",
+  "pillar": "patience"
+ },
+ {
+  "id": 29,
+  "text": "If everyone agrees immediately, the hard part hasn't been named yet.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 30,
+  "text": "The shortcut is a loan. The interest is invisible until it isn't.",
+  "pillar": "speed"
+ },
+ {
+  "id": 31,
+  "text": "You don't have to attend every argument you're invited to.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 32,
+  "text": "Nobody thanks the middle of the chain. Build it anyway.",
+  "pillar": "patience"
+ },
+ {
+  "id": 33,
+  "text": "A plan nobody can argue with usually asks nothing of anyone.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 34,
+  "text": "Fast is a byproduct. Aim at clear.",
+  "pillar": "speed"
+ },
+ {
+  "id": 35,
+  "text": "The calm one in the room is not the one who cares least.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 36,
+  "text": "You don't own the brand. You own whether it's trusted here.",
+  "pillar": "patience"
+ },
+ {
+  "id": 37,
+  "text": "Write the decision down. Memory negotiates.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 38,
+  "text": "Every emergency has a calendar entry from three months ago that nobody kept.",
+  "pillar": "speed"
+ },
+ {
+  "id": 39,
+  "text": "Explaining yourself twice weakens the first explanation.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 40,
+  "text": "Being the local face of a distant decision is most of the job.",
+  "pillar": "patience"
+ },
+ {
+  "id": 41,
+  "text": "The room wants a verdict, not a survey.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 42,
+  "text": "You cannot sprint a relationship.",
+  "pillar": "speed"
+ },
+ {
+  "id": 43,
+  "text": "Most of what you want to send tonight reads better unsent.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 44,
+  "text": "Distance doesn't dilute accountability. It only delays the news.",
+  "pillar": "patience"
+ },
+ {
+  "id": 45,
+  "text": "Reversible decisions deserve speed. The rest deserve silence first.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 46,
+  "text": "The fire you're fighting was lit by a decision that felt efficient.",
+  "pillar": "speed"
+ },
+ {
+  "id": 47,
+  "text": "Answer the question asked. Nothing enlarges a problem like volunteering.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 48,
+  "text": "A country head who only reports good weather is reporting nothing.",
+  "pillar": "patience"
+ },
+ {
+  "id": 49,
+  "text": "You are not paid to be certain. You are paid to choose.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 50,
+  "text": "Momentum is not the same as direction.",
+  "pillar": "speed"
+ },
+ {
+  "id": 51,
+  "text": "Being right loudly costs more than being right quietly.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 52,
+  "text": "You can't manage six markets. You can only manage six people who manage them.",
+  "pillar": "patience"
+ },
+ {
+  "id": 53,
+  "text": "Ask what would have to be true. Then check whether it is.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 54,
+  "text": "Busy is the easiest thing in the world to fake.",
+  "pillar": "speed"
+ },
+ {
+  "id": 55,
+  "text": "A short reply is not a rude one.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 56,
+  "text": "Compounding is boring by design. That's the barrier to entry.",
+  "pillar": "patience"
+ },
+ {
+  "id": 57,
+  "text": "Every 'let's circle back' has a price tag you'll see next quarter.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 58,
+  "text": "If the deadline was arbitrary, the panic is optional.",
+  "pillar": "speed"
+ },
+ {
+  "id": 59,
+  "text": "You can win the sentence and lose the relationship.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 60,
+  "text": "The quarter is a unit of measurement, not a unit of meaning.",
+  "pillar": "patience"
+ },
+ {
+  "id": 61,
+  "text": "If the plan rewards revenue, don't act surprised by the discounts.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 62,
+  "text": "Checking twice costs less than apologising once.",
+  "pillar": "speed"
+ },
+ {
+  "id": 63,
+  "text": "The strongest position in a negotiation is not needing it today.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 64,
+  "text": "Long games are won by people who find the middle interesting.",
+  "pillar": "patience"
+ },
+ {
+  "id": 65,
+  "text": "You can't motivate your way out of a badly drawn plan.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 66,
+  "text": "Half-finished work is inventory, not progress.",
+  "pillar": "speed"
+ },
+ {
+  "id": 67,
+  "text": "Don't fill the pause. It's working.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 68,
+  "text": "Show up the same on the bad weeks. That's the whole trick.",
+  "pillar": "patience"
+ },
+ {
+  "id": 69,
+  "text": "Consensus is a method, not an outcome.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 70,
+  "text": "The quickest route through a regulated market is the documented one.",
+  "pillar": "speed"
+ },
+ {
+  "id": 71,
+  "text": "Say less to the room and more to the person.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 72,
+  "text": "What you build quietly for two years cannot be copied in two weeks.",
+  "pillar": "patience"
+ },
+ {
+  "id": 73,
+  "text": "When the data is thin, say so, then decide anyway.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 74,
+  "text": "Speed you can't repeat is luck.",
+  "pillar": "speed"
+ },
+ {
+  "id": 75,
+  "text": "Never explain a decision to someone who only wants to relitigate it.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 76,
+  "text": "The relationship you maintain when you need nothing is the one that works when you do.",
+  "pillar": "patience"
+ },
+ {
+  "id": 77,
+  "text": "The cost of the wrong choice is usually smaller than the cost of no choice.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 78,
+  "text": "Most delays are approvals nobody asked for early enough.",
+  "pillar": "speed"
+ },
+ {
+  "id": 79,
+  "text": "The email you didn't send has a perfect record.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 80,
+  "text": "Consistency is the cheapest competitive advantage and the least used.",
+  "pillar": "patience"
+ },
+ {
+  "id": 81,
+  "text": "Name the tradeoff out loud or someone else will name it for you.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 82,
+  "text": "Work that survives is work someone slowed down for.",
+  "pillar": "speed"
+ },
+ {
+  "id": 83,
+  "text": "Complaining upward without a proposal is just weather.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 84,
+  "text": "You are always negotiating your next negotiation.",
+  "pillar": "patience"
+ },
+ {
+  "id": 85,
+  "text": "A committee is where urgency goes to be reclassified.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 86,
+  "text": "The expensive mistakes are the ones that felt efficient at the time.",
+  "pillar": "speed"
+ },
+ {
+  "id": 87,
+  "text": "Restraint is not passivity. It's aim.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 88,
+  "text": "A reputation is a slow deposit and a fast withdrawal.",
+  "pillar": "patience"
+ },
+ {
+  "id": 89,
+  "text": "Choose the constraint you want to live with.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 90,
+  "text": "You can compress the work. You cannot compress the trust.",
+  "pillar": "speed"
+ },
+ {
+  "id": 91,
+  "text": "You cannot argue someone into trusting you.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 92,
+  "text": "Ten years in the same market is a moat nobody can buy.",
+  "pillar": "patience"
+ },
+ {
+  "id": 93,
+  "text": "Good judgement is mostly refusing to be rushed by someone else's calendar.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 94,
+  "text": "Preparation is just speed you paid for in advance.",
+  "pillar": "speed"
+ },
+ {
+  "id": 95,
+  "text": "Reputation is built in the messages you chose not to write.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 96,
+  "text": "Patience is not waiting. It's working while nothing visible happens.",
+  "pillar": "patience"
+ },
+ {
+  "id": 97,
+  "text": "You will not be graded on how difficult it felt.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 98,
+  "text": "A calendar full of rescue work is a planning problem in costume.",
+  "pillar": "speed"
+ },
+ {
+  "id": 99,
+  "text": "Tone survives longer than content.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 100,
+  "text": "Most overnight results are a decade with the boring part edited out.",
+  "pillar": "patience"
+ },
+ {
+  "id": 101,
+  "text": "Second-guessing in public teaches your team to stop deciding.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 102,
+  "text": "There is no version of this where skipping the boring part helps.",
+  "pillar": "speed"
+ },
+ {
+  "id": 103,
+  "text": "If you must repeat it, change the medium, not the volume.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 104,
+  "text": "The market rewards the one still there.",
+  "pillar": "patience"
+ },
+ {
+  "id": 105,
+  "text": "The hardest part of a decision is what you stop doing because of it.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 106,
+  "text": "Do it properly now or thoroughly later. Later costs more.",
+  "pillar": "speed"
+ },
+ {
+  "id": 107,
+  "text": "Give the bad news first, plainly, and in your own voice.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 108,
+  "text": "Endurance is a skill, not a temperament.",
+  "pillar": "patience"
+ },
+ {
+  "id": 109,
+  "text": "If you can't say what would change your mind, it isn't a position.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 110,
+  "text": "Urgency borrowed from someone else is still debt.",
+  "pillar": "speed"
+ },
+ {
+  "id": 111,
+  "text": "Don't negotiate against yourself in the silence.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 112,
+  "text": "Do the unglamorous thing for long enough and it becomes unassailable.",
+  "pillar": "patience"
+ },
+ {
+  "id": 113,
+  "text": "Own the call before you know whether it worked.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 114,
+  "text": "Being early is the only reliable way to look calm.",
+  "pillar": "speed"
+ },
+ {
+  "id": 115,
+  "text": "Precision is a form of respect.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 116,
+  "text": "You cannot shortcut a track record.",
+  "pillar": "patience"
+ },
+ {
+  "id": 117,
+  "text": "Deciding late is still deciding. It just costs more.",
+  "pillar": "decisions"
+ },
+ {
+  "id": 118,
+  "text": "The system you skip building is the one you'll operate by hand forever.",
+  "pillar": "speed"
+ },
+ {
+  "id": 119,
+  "text": "The apology that works is short and contains no 'but'.",
+  "pillar": "restraint"
+ },
+ {
+  "id": 120,
+  "text": "Finish quietly. It carries further.",
+  "pillar": "patience"
+ }
+]
