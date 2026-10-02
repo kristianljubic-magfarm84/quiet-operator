@@ -1,5 +1,5 @@
 {
- "next_index": 7,
+ "next_index": 8,
  "history": [
   {
    "index": 1,
@@ -24,6 +24,10 @@
   {
    "index": 6,
    "media_id": "18130692538666178"
+  },
+  {
+   "index": 7,
+   "media_id": "18172144729455761"
   }
  ]
 }
